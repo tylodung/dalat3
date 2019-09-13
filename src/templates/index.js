@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://dulichtoday.vn/wp-content/uploads/2018/12/da-lat-thang-3-cam-trai-dem-da-lat.jpg' title="Mộng Cảnh" tagline="Cảnh đẹp như mơ.." />
+        <Header image='https://dulichtoday.vn/wp-content/uploads/2018/12/da-lat-thang-3-cam-trai-dem-da-lat.jpg' title="ĐÀ LẠT Điểm Hẹn" tagline="Cảnh đẹp như mơ.." />
       
         <main id="site-main" className="site-main outer" role="main">
 

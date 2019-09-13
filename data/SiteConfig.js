@@ -1,6 +1,6 @@
 module.exports = {
     blogPostDir: "src/pages/blog", // The name of directory that contains your posts.
-    siteTitle: "Mộng Cảnh", // Site title.
+    siteTitle: "ĐÀ LẠT Điểm Hẹn", // Site title.
     siteTitleAlt: "Chuyện mới kể..", // Alternative site title for SEO.
     siteLogo: "https://api.adorable.io/avatars/150/logo.png", // Logo used for SEO and manifest.
     siteUrl: "https://downsload.info/", // Domain of your website without pathPrefix.
