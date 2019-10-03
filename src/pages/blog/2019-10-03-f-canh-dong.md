@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /f-canh-dong
-title: F Cánh Đồng Hoa Đà Lạt và Quán cà phê đang làm giới trẻ phát "Sốt"
+title: F Cánh Đồng Hoa Đà Lạt và Quán cà phê đang làm giới trẻ phát Sốt
 image: 'https://dulichdalat.pro/wp-content/uploads/2018/03/quan-ca-phe-f-canh-dong-hoa.jpg' 
 tags:
   - Cafe
