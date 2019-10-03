@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 path: /f-canh-dong
-title: F Cánh Đồng Hoa Đà Lạt và Quán cà phê đang làm giới trẻ phát Sốt
-image: 'https://i.ytimg.com/vi/ncDcdTFGiR4/maxresdefault.jpg' 
+title: F Cánh Đồng Hoa Đà Lạt và Quán cà phê đang làm giới trẻ phát 'Sốt'
+image: 'https://dulichdalat.pro/wp-content/uploads/2018/03/quan-ca-phe-f-canh-dong-hoa.jpg' 
 tags:
-  - cafe
+  - Cafe
 uev: 4.18.6
-date: 2019-08-14T13:12:33.962Z
+date: 2019-10-03T13:12:33.962Z
 description:
 
 ---
@@ -18,7 +18,7 @@ Một quán cà phê và cũng là điểm tham quan vô cùng thú vị và h�
 
 **Địa chỉ:**
 
-Cafe F cánh đồng hoa thuộc đường lánh nạn 1, đèo Mimosa, phường 10 thành phố Đà Lạt tỉnh Lâm Đồng
+Cafe F cánh đồng hoa thuộc đường lánh nạn 1, đèo Mimosa, phường 10 thành phố Đà Lạt tỉnh Lâm Đồng.
 
 **Mở cửa:**
 
