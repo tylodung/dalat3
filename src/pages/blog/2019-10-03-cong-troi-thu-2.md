@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /cong-troi-thu-2
-title: 'Cổng trời thứ 2' siêu đẹp tại quán cà phê Dalat View
+title: "Cổng trời thứ 2" siêu đẹp tại quán cà phê Dalat View
 image: 'https://du-lich-da-lat.com/wp-content/uploads/2018/09/da-lat-view.jpg' 
 tags:
   - Cafe
