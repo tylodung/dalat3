@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-path: /truong-cao-dang
+path: /truong-cao-dang-n
 title: Trường Cao Đẳng Sư Phạm nơi chụp hình sống ảo nổi tiếng bậc nhất Đà Lạt
 image: 'https://dulichtoday.vn/wp-content/uploads/2018/11/cao-dang-su-pham-da-lat-dia-diem-du-lich-da-lat-free.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2020-02-27T13:12:33.962Z
+description: Bạn muốn tham quan Trường Cao Đẳng Sư Phạm Đà Lạt, cũng như địa chỉ và giờ mở cửa của ngôi trường có tuổi đời gần 100 năm này.
 
 ---
 
@@ -83,4 +83,4 @@ Nếu đi du lịch đà lạt bạn đừng quên ghé thăm ngôi trường đ
 
 **Lưu ý khi đến trường**
 
-Khi đến cổng trường bạn phải dừng lại và dắt xe qua cổng, từ cổng vào bạn để xe ở bên tay trái cách cổng trường 50m giá vé giữ xe là 2000đ/ lượt.
+Khi đến cổng trường bạn phải dừng lại và dắt xe qua cổng, từ cổng vào bạn để xe ở bên tay trái cách cổng trường 50m giá vé giữ xe là 2000đ/lượt.

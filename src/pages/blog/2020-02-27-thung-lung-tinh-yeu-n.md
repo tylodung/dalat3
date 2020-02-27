@@ -4,10 +4,11 @@ path: /thung-lung-tinh-yeu
 title: Thung Lũng Tình Yêu có gì khi tăng giá vé lên 100.000đ
 image: 'https://i.ytimg.com/vi/TQ3tr7hXV1s/maxresdefault.jpg' 
 tags:
-  - Love
+  - Dia diem
 uev: 4.18.6
-date: 2019-06-21T13:12:33.962Z
-description:
+date: 2020-02-27T13:12:33.962Z
+description: Thung lũng tình yêu là một trong những địa điểm du lịch Đà Lạt mà du khách yêu cầu được tham quan nhiều nhất.
+
  
 ---
 
