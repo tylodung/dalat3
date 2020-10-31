@@ -1,19 +1,19 @@
 ---
 templateKey: blog-post
-path: /kinh-nghiem-du-lich
-title: Kinh Nghiệm Du Lịch Đà Lạt chi tiết nhất 2019 cho người đi lần đầu
+path: /kinh-nghiem-du-lich-n
+title: Kinh Nghiệm Du Lịch Đà Lạt chi tiết nhất 2020 cho người đi lần đầu
 image: 'https://cdn02.static-adayroi.com/0/2018/08/15/1534319337134_3554100.jpg' 
 tags:
   - Kinh nghiem
 uev: 4.18.6
-date: 2019-11-18T13:12:33.962Z
-description: Bài viết này sẽ chia sẻ cho quý khách các Kinh nghiệm Du Lịch Đà Lạt 2019 hay nhất để bạn có thể trở thành một du khách thông thái tận hưởng tất cả các món ngon, bổ, rẻ mà vẫn tiết kiệm được túi tiền của mình.
+date: 2020-10-31T13:12:33.962Z
+description: Bài viết này sẽ chia sẻ cho quý khách các Kinh nghiệm Du Lịch Đà Lạt 2020 hay nhất để bạn có thể trở thành một du khách thông thái tận hưởng tất cả các món ngon, bổ, rẻ mà vẫn tiết kiệm được túi tiền của mình.
  
 ---
 
 
 
-![ten buc hinh](https://ksdalat.com/wp-content/uploads/2019/04/kinh-nghiem-du-lich-da-lat.jpg "ten buc hinh")
+![ten buc hinh](https://ksdalat.com/wp-content/uploads/2020/04/kinh-nghiem-du-lich-da-lat.jpg "ten buc hinh")
 
 **Nên tới đà lạt khi nào?**
 
@@ -62,7 +62,7 @@ Số điện thoại: 091 394 73 03.
 
 *Đi Đà Lạt từ Đà Nẵng*
 
-Nếu đi từ Đà Nẵng và các tỉnh miền Trung thì bạn có thể lựa chọn các nhà xe như : Thanh Thuỷ, Quốc Bảo, Phương Trang Đà Nẵng…
+Nếu đi từ Đà Nẵng và các tỉnh miền Trung thì bạn có thể lựa chọn các nhà xe như: Thanh Thuỷ, Quốc Bảo, Phương Trang Đà Nẵng…
 
 *Đi Đà Lạt từ Hà Nội*
 
@@ -109,17 +109,17 @@ Muốn thuê loại nào bạn chỉ cần nhờ lễ tân khách sạn gọi h�
 Do đà lạt toàn đồi và dốc cao nên khá khó khăn nếu bạn muốn thuê xe đạp xa, loại xe đạp được mọi người thuê nhiều nhất là xe đạp đôi và người thuê đa phần là các bạn trẻ, với giá khoảng 20.000đ/ tiếng là bạn có thể vi vu làm 1 vòng quanh hồ Xuân Hương rồi.
 
 *Thuê xe ô tô:*
-Bạn có thể thuê xe ô tô tự lái với giá từ 700.000đ/ ngày hoặc lựa chọn đi taxi và Grab, để thuê xe ô tô tự lái bạn chỉ cần mang theo chứng minh và đặt cọc là được giao xe ngay.
+Bạn có thể thuê xe ô tô tự lái với giá từ 700.000đ/ngày hoặc lựa chọn đi taxi và Grab, để thuê xe ô tô tự lái bạn chỉ cần mang theo chứng minh và đặt cọc là được giao xe ngay.
 
 **Một số hãng Taxi tại Đà Lạt**
 
 Bạn có thể lựa chọn các hãng Taxi dưới đây để được phục vụ nhanh nhất.
 
-Lado Taxi : Có lẽ đây là hãng taxi chất lượng nhất Đà Lạt bây giờ bạn có thể lướt Wifi vi vu khi chọn hãng xe này Sdt : 02633.789.789
-Mai Linh Taxi : 0263.38383838
-Taxi Thắng Lơi : 02633.83.55.83
-Taxi Quốc Tế : 02633.52.52.52
-Dalat Taxi : 02633.666.888
+Lado Taxi: Có lẽ đây là hãng taxi chất lượng nhất Đà Lạt bây giờ bạn có thể lướt Wifi vi vu khi chọn hãng xe này Sdt: 02633.789.789
+Mai Linh Taxi: 0263.38383838
+Taxi Thắng Lơi: 02633.83.55.83
+Taxi Quốc Tế: 02633.52.52.52
+Dalat Taxi: 02633.666.888
 Chi tiết về giá dịch vụ tất cả của các hãng taxi tại đà lạt bạn có thể xem ở bài viết này.
 
 **Kinh nghiệm chọn khách sạn:**
@@ -142,7 +142,7 @@ Homestay
 
 **Kinh nghiệm đặt phòng khách sạn ở Đà Lạt**
 
-Theo kinh nghiệm thường đặt khách sạn cho các khách du lịch của công ty ( khách có điều kiện 1 chút) thì các khách sạn từ 3 sao trở lên được khách du lịch chọn nhiều nhất là Khách sạn Ngọc Phát tiêu chuẩn 3 sao nằm trên đường Hồ Tùng Mậu. Khách sạn này tuyệt đẹp nằm bên cạnh Hồ Xuân Hương thơ mộng và đi ra chợ đêm chỉ mất 5 phút đi bộ.
+Theo kinh nghiệm thường đặt khách sạn cho các khách du lịch của công ty (khách có điều kiện 1 chút) thì các khách sạn từ 3 sao trở lên được khách du lịch chọn nhiều nhất là Khách sạn Ngọc Phát tiêu chuẩn 3 sao nằm trên đường Hồ Tùng Mậu. Khách sạn này tuyệt đẹp nằm bên cạnh Hồ Xuân Hương thơ mộng và đi ra chợ đêm chỉ mất 5 phút đi bộ.
 
 **Kinh nghiệm đặt tour du lịch đà lạt**
 
@@ -172,18 +172,18 @@ Ngoài ra những bạn đi Tour Dalat 3 ngày 2 đêm hoặc 4 ngày 3 đêm đ
 
 Đi đến Đà Lạt ngày Lễ Tết chắc chắn bạn sẽ gặp phải những vấn nạn sau đây:
 
-Tắc đường:
+*Tắc đường:*
 Đà Lạt rất ít khi tắc đường nhưng khi đến dịp Lễ Tết thì thường xuyên xảy ra dù không xảy ra tình trạng kẹt cứng vài tiếng đồng hồ tuy nhiên nó cũng làm nhiều người khó chịu.
 
-Khách sạn tăng giá
+*Khách sạn tăng giá*
 
 Bạn không thể tưởng tượng được rằng 1 phòng ngày thường bán khoảng 300.000đ cho 2 khách vào ngày Lễ tết lại có giá tới 1.000.000đ hoặc hơn.
 
-Ăn uống khó khăn
+*Ăn uống khó khăn*
 
 Khách quá đông dẫn đến tình trạng nhà hàng quá tải bạn sẽ rất vất vả để có bữa ăn ngon và có khi bạn còn phải bực mình vì phục vụ quá chậm.
 
-Cách khắc phục
+*Cách khắc phục*
 
 Luôn đặt dịch vụ sớm nhất có thể như đặt phòng, đặt chỗ ăn uống, thuê xe sớm giúp bạn tránh bị động.
 
