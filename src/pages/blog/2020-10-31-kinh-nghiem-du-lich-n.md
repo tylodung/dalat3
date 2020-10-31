@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /kinh-nghiem-du-lich-n
 title: Kinh Nghiệm Du Lịch Đà Lạt chi tiết nhất 2020 cho người đi lần đầu
-image: 'https://cdn02.static-adayroi.com/0/2018/08/15/1534319337134_3554100.jpg' 
+image: 'https://live.staticflickr.com/65535/50550863622_d1faf5b0ef_b.jpg' 
 tags:
   - Kinh nghiem
 uev: 4.18.6
@@ -13,7 +13,6 @@ description: Bài viết này sẽ chia sẻ cho quý khách các Kinh nghiệm 
 
 
 
-![ten buc hinh](https://ksdalat.com/wp-content/uploads/2020/04/kinh-nghiem-du-lich-da-lat.jpg "ten buc hinh")
 
 **Nên tới đà lạt khi nào?**
 
