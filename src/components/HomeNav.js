@@ -16,8 +16,8 @@ const HomeNav = ( { isHome } ) =>
                     </Link>
                 </li>
                 <li role="menuitem">
-                    <a href="https://myphamcacloai.net">
-                        DB
+                    <a href="https://heitech.info/">
+                        Góp Ý
                     </a>
                 </li>
             </ul>
